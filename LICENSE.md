@@ -1,4 +1,4 @@
-# 
+# Get the ultimate OBS Studio for macOS lut with ultimate OBS Studio for macOS LUT | normalization + auto-color-grading. Featuring normalization and auto-color-grading, it's the
 
 
 
